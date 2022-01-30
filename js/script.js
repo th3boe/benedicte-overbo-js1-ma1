@@ -53,7 +53,6 @@ function nameList(list) {
 nameList(cats);
 
 // Question 8
-
 function createCats(cats) {
   let catsList = "";
 
